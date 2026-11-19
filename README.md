@@ -69,7 +69,7 @@ Download or clone the repository and open `index.html` in a modern browser. This
 2. In the repository, open **Settings → Pages** and select **Deploy from a branch → main / (root)**.
 3. Verify the public URL in a clean or private browser. Confirm that the guide, seeded data, navigation, local reset, and CSV exports work before sharing it publicly.
 
-GitHub Pages is not enabled by this package. Publishing a URL is a separate step.
+
 
 ## Suggested portfolio narrative
 
@@ -77,4 +77,4 @@ The challenge is not only processing proposals. It is connecting scientific deci
 
 ## Planned, not implemented
 
-Real model inference or agents; signed identity and authorization; secure multi-user storage; independent scientific adjudication; verified document signatures; measured cost savings; full demand forecasting and twelve-month resource-capacity scenarios. These are roadmap items, **not** features demonstrated in the current release candidate.
+Real model inference or agents; signed identity and authorization; secure multi-user storage; independent scientific adjudication; verified document signatures; measured cost savings; full demand forecasting and twelve-month resource-capacity scenarios. These are roadmap items, not features demonstrated in the current prototype.
