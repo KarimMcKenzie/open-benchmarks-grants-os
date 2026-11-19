@@ -1,6 +1,10 @@
-# V11 Release Candidate — Evidence-Based Release Review
+# Open Benchmarks Grants OS — Portfolio Verification Notes
 
-**Status: RELEASE CANDIDATE; HOSTED DEMO STILL REQUIRES CHECK BEFORE EXTERNAL SHARING.** The candidate has passed automated checks in an isolated Chromium harness; a real hosted GitHub Pages link and fresh-origin verification have **not** been completed. An external GO decision requires checking the public link and a brief human walkthrough.
+**Status: Public portfolio prototype available; final end-to-end walkthrough pending.**
+
+Prior automated tests exercised key workflows in an isolated browser environment. The published GitHub Pages interface has been visually inspected, but full live-browser workflow verification remains pending.
+
+This project demonstrates program management, financial governance, operational controls, and human-supervised AI evaluation using fictional data. It is not production software. 
 
 ## Verified against code and browser interaction
 
@@ -34,7 +38,7 @@
 | Business outcomes | Fictional capacity/exception visibility and a controlled amendment reconciliation | No deployed impact, measured savings, proven reduction in turnaround or actual compliance benefit |
 | Forward-looking 12-month planning | Project duration appears in applications; yearly authorization date fields | No integrated twelve-month demand/capacity forecast or scenario simulator yet |
 
-## Remaining external-release gates
+## Remaining portfolio verification checks
 
 1. Open the **GitHub Pages URL** from a private or clean browser; validate fresh seeded data, guide links, live navigation and reset.
 2. Manually confirm the decision-control example and resource-amendment scenario in the hosted build (one focused pass, not full UAT).
@@ -46,4 +50,4 @@
 
 A single-browser static demo cannot establish server-enforced separation of duties, actual approval authority, secure file custody, non-repudiable audit logging, independent signature authentication, real model quality or validated savings. Manual entries and browser storage can be edited locally; the interface illustrates governance intent, not enterprise control effectiveness.
 
-**Recommendation:** Continue to hosted preview and focused final verification. Do not claim full release GO or send external outreach until those steps pass.
+**Next steps:** Complete a focused walkthrough of the published portfolio prototype, verify resource authorization and key governance controls, and confirm that all demonstrated capabilities and limitations are accurately represented before external sharing.
